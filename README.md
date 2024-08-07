@@ -7,7 +7,6 @@ This project aims to build a machine learning model to classify the outcomes of 
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -56,3 +55,26 @@ You can install these libraries using pip:
 
 ```sh
 pip install pandas numpy seaborn matplotlib
+```
+## Usage
+
+1. Clone the repository
+
+   ```sh
+   git clone https://github.com/yourusername/bank-marketing-classification.git
+    cd bank-marketing-classification
+   ```
+   
+2. Open the Jupyter notebook
+
+   ```sh
+   jupyter notebook bank_marketing.ipynb
+    ```
+
+3. Run the cells sequentially to preprocess the data, train the model, and evaluate its performance.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
